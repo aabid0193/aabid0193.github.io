@@ -16,12 +16,12 @@ We used Data from 2014 to 2017 during the period May 1st through May 14th, since
 Our approach was to find the most populated stations and as well as stations close to areas with a high concentration of female workers, tech hubs as well as find the distances between stations to optimize the route taken by the street teams.
 
 
-![alt_text]({{ site.url }}/Images/pic1.png)
+![alt_text]({{ site.url }}/images/pic1.png)
 
-![alt_text]({{ site.url }}/Images/pic2.png)
+![alt_text]({{ site.url }}/images/pic2.png)
 
-![alt_text]({{ site.url }}/Images/pic3.png)
+![alt_text]({{ site.url }}/images/pic3.png)
 
-![alt_text]({{ site.url }}/Images/pic4.png)
+![alt_text]({{ site.url }}/images/pic4.png)
 
-![alt_text]({{ site.url }}/Images/pic5.png)
+![alt_text]({{ site.url }}/images/pic5.png)
